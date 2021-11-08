@@ -37,4 +37,7 @@ This repositary has different branches made according the timeline of the event
 * day1 branch - This branch contains the frontend of real time chat application which was finished after day 1 event
 * main branch - Latest code as per the event schedule
 
+## Day 1 Event Output
+
+![ui](https://user-images.githubusercontent.com/55632797/140794242-adb603c1-070f-42f4-b4de-871ed2f09f82.PNG)
 
