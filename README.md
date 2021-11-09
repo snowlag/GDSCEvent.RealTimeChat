@@ -1,7 +1,7 @@
 # Real Time Chat Application
 This Project was done live during GDSC BVCOENM two days event 
 
-Day 1 Event Link 1 - [Web Development from Scratch](https://gdsc.community.dev/events/details/developer-student-clubs-bharati-vidyapeeth-college-of-engineering-navi-mumbai-presents-web-development-from-scratch/)
+Day 1 Event Link 1 - [Web Development from Scratch](https://www.youtube.com/watch?v=2Z1pzm7pP3I)
 
 Day 2 Event Link 2 - [Advanced Web Dev & Real-time Chat Application](https://gdsc.community.dev/events/details/developer-student-clubs-bharati-vidyapeeth-college-of-engineering-navi-mumbai-presents-advanced-web-dev-real-time-chat-application/)
 
