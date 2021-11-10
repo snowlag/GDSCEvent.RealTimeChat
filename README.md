@@ -42,9 +42,19 @@ This repositary has different branches made according the timeline of the event
 
 ## Day 1 Event Output
 
+* Completed the frontend of the application by using html , css and bootstarp
+* Made the UI functional with Javascript and jQuery 
+* Added helper functions for day 2
+
 ![ui](https://user-images.githubusercontent.com/55632797/140794242-adb603c1-070f-42f4-b4de-871ed2f09f82.PNG)
 
 ## Day 2 Event Output
+
+* Integrated firebase in the project
+* Added authentication via google account
+* Wired the application with database and added synching of live messages
+* Deployed the application on firebase
+
 ![output2](https://user-images.githubusercontent.com/55632797/141097156-c988c01d-d300-416c-870e-1fa3480b4168.PNG)
   
 ![output4](https://user-images.githubusercontent.com/55632797/141097262-71f72761-24f9-49d6-96a7-5ee069d88ecf.PNG)
