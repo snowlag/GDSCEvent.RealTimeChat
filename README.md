@@ -5,7 +5,7 @@ Live Project Link -  [GDSC CHAT ROOM](https://chatapplicationday2.web.app/)
 
 Day 1 Event Link 1 - [Web Development from Scratch](https://www.youtube.com/watch?v=2Z1pzm7pP3I)
 
-Day 2 Event Link 2 - [Advanced Web Dev & Real-time Chat Application](https://gdsc.community.dev/events/details/developer-student-clubs-bharati-vidyapeeth-college-of-engineering-navi-mumbai-presents-advanced-web-dev-real-time-chat-application/)
+Day 2 Event Link 2 - [Advanced Web Dev & Real-time Chat Application](https://youtu.be/VjjgaJkj5GQ)
 
 ## Features
 * Responsive and beautiful design with basic css properties
