@@ -35,10 +35,10 @@ git clone https://github.com/snowlag/GDSCEvent.RealTimeChat
 
 This repositary has different branches made according the timeline of the event
 
-* template branch - This branch contains the initial temlate that was used in day 1 event to get started
-* day1 branch - This branch contains the frontend of real time chat application which was finished after day 1 event
-* day2 branch - this branch contains the full code of application which was completed on day 2
-* main branch - Latest code
+* [Template branch](https://github.com/snowlag/GDSCEvent.RealTimeChat/tree/template) - This branch contains the initial temlate that was used in day 1 event to get started
+* [Day1 branch](https://github.com/snowlag/GDSCEvent.RealTimeChat/tree/day1) - This branch contains the frontend of real time chat application which was finished after day 1 event
+* [Day2 branch](https://github.com/snowlag/GDSCEvent.RealTimeChat/tree/day2) - this branch contains the full code of application which was completed on day 2
+* [Main branch](https://github.com/snowlag/GDSCEvent.RealTimeChat/tree/main) - Latest code
 
 ## Day 1 Event Output
 
